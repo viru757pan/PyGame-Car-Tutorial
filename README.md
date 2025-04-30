@@ -31,13 +31,12 @@ Make sure you have Python and Pygame installed:
 pip install pygame
 git clone https://github.com/yourusername/pygame-car-tutorial
 cd pygame-car-tutorial
+```
 
 ## ✍️ Author  
 #Viresh Panchal
 
 ## 📜 License
-
----
 
 Would you like me to generate a matching `requirements.txt` and `LICENSE` file too?
 
